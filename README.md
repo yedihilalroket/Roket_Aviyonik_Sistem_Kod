@@ -1,1 +1,1 @@
-# Roket_Aviyonik_Sistem_Kod
+# Roket_Aviyonik_Sistem_Kod_Kritik_Tasarım
